@@ -5,15 +5,15 @@
 #include <ESP8266WebServer.h>
 
 // ---------------- WIFI ----------------
-#define WIFI_SSID "trilochaan"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID "XXXX"
+#define WIFI_PASSWORD "XXXX"
 
 // ---------------- EMAIL ----------------
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 587
-#define AUTHOR_EMAIL "trilochaan42@gmail.com"
-#define AUTHOR_PASSWORD "pyjb klqr qqam jvic"
-#define RECIPIENT_EMAIL "trilochaan65@gmail.com"
+#define AUTHOR_EMAIL "XXXX@gmail.com"
+#define AUTHOR_PASSWORD "XXXX"
+#define RECIPIENT_EMAIL "XXXX@gmail.com"
 
 // ---------------- WEB SERVER ----------------
 ESP8266WebServer server(80);
